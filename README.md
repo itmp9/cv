@@ -1,4 +1,3 @@
-```markdown
 # Илья Сачков
 
 **DevOps-инженер / автор курса по Linux**  
@@ -78,4 +77,3 @@
 
 - Автор Linux-курса *Linux Basic 2.0* (Rebrain)
 
-```
