@@ -32,7 +32,7 @@
 - Мониторинг (Prometheus, Grafana, VictoriaMetrics, алерты в Mattermost)
 - Terraform-модули: VPC, NAT, S3, БД, Kubernetes, Object Storage
 
-![Диаграмма CI/CD Personal Environments](https://dummyimage.com/800x400/cccccc/000000&text=CI%2FCD+Personal+Kafka%2FElastic%2FDB)
+
 
 ---
 
@@ -46,7 +46,7 @@
 - Персональные PostgreSQL и Redis со случайными паролями
 - Генерация htpasswd, логины в stdout, nginx как входная точка
 
-![Kafka UI / Elasticsearch UI](https://dummyimage.com/800x400/aaaaaa/000000&text=Kafka+UI+%2B+Elastic+Kibana)
+
 
 ### 📦 DevOps-автоматизация
 - Миграции баз данных в Yandex Cloud по кнопке (создание/удаление/копирование)
